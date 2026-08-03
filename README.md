@@ -1,30 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Muhammad%20Hamid%20Raza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+# Hi 👋, I'm Muhammad Hamid Raza
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision+Enthusiast;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Learner;Computer+Vision+Enthusiast;AI+for+Healthcare;Kaggle+Competitor" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hamidrazashahid321@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Hamid-progs&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Hamid-progs?style=for-the-badge&color=58A6FF&labelColor=161B22)
+![Stars](https://img.shields.io/github/stars/Hamid-progs?style=for-the-badge&color=58A6FF&labelColor=161B22)
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+## About Me
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Muhammad Hamid Raza"
         self.role = "BS Computer Science Student (Expected 2027)"
-        self.focus = ["Data Science", "Machine Learning", "Deep Learning", "Computer Vision", "AI"]
+        self.focus = [
+            "Data Science",
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Artificial Intelligence"
+        ]
         self.goal = "Applying AI to solve real-world problems, especially in healthcare"
         self.currently_building = "An end-to-end portfolio of production-ready ML/DL projects"
 
@@ -35,137 +40,201 @@ me = DataScientist()
 me.say_hi()
 ```
 
-- 🔭 Building an end-to-end portfolio of Machine Learning & Deep Learning projects
-- 🌱 Currently deepening my knowledge of **Advanced Deep Learning, CNNs, and Transfer Learning**
-- 🎯 Long-term goal: applying **AI in healthcare and medical research**
-- 💡 Actively solving problems on **Kaggle**, **LeetCode**, and **SQL**
-- 🤝 Open to internships and entry-level roles in **AI / ML / Data Science**
-- 📫 Reach me at **m.hamidrazashahid321@gmail.com**
+- BS Computer Science Student (Expected 2027)
+- Building production-ready Machine Learning and Deep Learning projects
+- Passionate about AI, Healthcare, Deep Learning and Computer Vision
+- Currently learning Advanced Deep Learning, CNNs, Transfer Learning and MLOps fundamentals
+- Solving problems on Kaggle, SQL and LeetCode
+- Looking for AI / ML / Data Science internships
+- Always learning by building real-world projects
 
----
+<br/>
 
-### 🧰 Tech Stack
-
-<div align="center">
+## Tech Stack
 
 **Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Data Analysis & Visualization**
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql" />
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Science**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Machine Learning & Deep Learning**
-<br/>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Deep Learning**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Deployment & Tools**
-<br/>
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+**Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,flutter,supabase" />
+</p>
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-</div>
+<br/>
 
----
-
-### 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📱 Smartphone Addiction Prediction**
-End-to-end ANN pipeline for a Kaggle Playground competition — feature engineering, hyperparameter tuning, and neural network design.
-`ANN` `Feature Engineering` `Hyperparameter Tuning`
+### 📱 Smartphone Addiction Prediction
+End-to-end ANN pipeline for the Kaggle Playground competition including preprocessing, feature engineering, hyperparameter tuning and neural network optimization.
+
+`ANN` `Feature Engineering` `TensorFlow` `Hyperparameter Tuning`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/smartphone-addiction-prediction-ann)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🧠 Diabetes Prediction using ANN**
-Full ML pipeline with data cleaning, outlier removal, feature scaling, batch normalization, dropout, and rigorous evaluation.
-`ANN` `Batch Norm` `Dropout` `Model Evaluation`
+### 🧠 GlucoScan — Diabetes Prediction using ANN
+Production-ready Streamlit web application using ANN with preprocessing, feature engineering, model evaluation and deployment.
+
+`ANN` `TensorFlow` `Streamlit` `Deployment`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hamid-progs/GlucoScan-Diabetes-Prediction-Web-App-using-ANN-Streamlit)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/diabetes-prediction-using-ann-80-accuracy)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🐱 Cats vs Dogs Image Classification**
-CNN-based image classifier using data augmentation and transfer learning for robust generalization.
-`CNN` `Transfer Learning` `TensorFlow/Keras`
+### 🐱 Cats vs Dogs Classification
+CNN implementation from scratch for image classification.
+
+`CNN` `Computer Vision` `TensorFlow`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/dogvscats-classification)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🔢 LeNet-5 on MNIST**
+### 🚀 VGG16 Transfer Learning
+Transfer Learning using VGG16 feature extraction for image classification.
+
+`CNN` `Transfer Learning` `VGG16`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/dogvscats-classification-vgg16-transfer-learning)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ VGG16 Fine Tuning
+Fine tuning a pretrained VGG16 network for improved image classification accuracy.
+
+`CNN` `Fine Tuning` `VGG16`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/dogvscats-classification-vgg16-fine-tuning)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AlexNet Architecture
+Classic AlexNet CNN architecture implemented from scratch.
+
+`CNN` `AlexNet` `Deep Learning`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/alexnet-architecture)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐶 AlexNet for Cats vs Dogs
+AlexNet architecture applied to the Cats vs Dogs classification task.
+
+`CNN` `AlexNet` `Computer Vision`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/dogvscats-using-alexnet-architecture)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔢 LeNet-5 on MNIST
 Classic CNN architecture implemented from scratch, achieving 98%+ accuracy on digit classification.
-`CNN` `From Scratch` `98%+ Accuracy`
+
+`CNN` `LeNet-5` `98%+ Accuracy`
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/hamidrana/lenet-architecture)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎬 Movie Recommendation System**
-Content-based recommender using cosine similarity on ~4,800 movies, deployed via Streamlit with live TMDB API integration and a Flutter mobile client.
-`Content-Based Filtering` `Streamlit` `TMDB API` `Flutter`
+### 🎬 Movie Recommendation System
+Content-based movie recommendation system using cosine similarity, with a Streamlit frontend and live TMDB API integration.
+
+`Content-Based Filtering` `Streamlit` `TMDB API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hamid-progs/Machine-Learning-Project/tree/main/Movies%20Recomendation%20System%20ML%20based%20Application)
 
 </td>
-<td width="50%">
-
-**❤️ Heart Disease Analysis**
-Exploratory data analysis and ML modeling to uncover key risk factors, with rich data visualization.
-`EDA` `ML Models` `Data Visualization`
+<td width="50%" valign="top">
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<i>🔗 Explore all projects on my <a href="https://github.com/Hamid-progs?tab=repositories">GitHub Repositories</a></i>
-</div>
+<br/>
 
----
+## Achievements
 
-### 🎓 Achievements
+| | |
+|---|---|
+| 🎓 | 4.00 / 4.00 GPA (Latest Semester) |
+| 📊 | Active Kaggle Competitor |
+| 🧩 | Built multiple end-to-end ML & DL projects |
+| 📚 | IBM SQL & Database Courses |
+| 💻 | Regular SQL and LeetCode practice |
+| 🚀 | Building deployment-ready AI portfolio |
 
-- ⭐ **4.00 / 4.00 GPA** in latest semester
-- 📊 Active **Kaggle** competitor
-- 🧠 Built multiple **end-to-end Machine Learning & Deep Learning** projects
-- 💻 Consistently solving **SQL** and **LeetCode** problems
-- 📚 Completed **IBM SQL & Database** courses
-- 🚀 Building a strong, deployment-ready **AI / Data Science** portfolio
+<br/>
 
----
+## Currently Learning
 
-### 🤖 Currently Learning
+![Advanced Deep Learning](https://img.shields.io/badge/Advanced%20Deep%20Learning-161B22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-161B22?style=for-the-badge&logo=keras&logoColor=D00000)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![MLOps](https://img.shields.io/badge/MLOps-161B22?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-161B22?style=for-the-badge&logo=pandas&logoColor=150458)
+![Neural Network Optimization](https://img.shields.io/badge/Neural%20Network%20Optimization-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 
-`Advanced Deep Learning` `CNN Architectures` `Transfer Learning` `Computer Vision` `Model Deployment` `MLOps Fundamentals` `Feature Engineering` `Neural Network Optimization`
+<br/>
 
----
-
-### 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -176,40 +245,32 @@ Exploratory data analysis and ML modeling to uncover key risk factors, with rich
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamid-progs&theme=tokyo-night&hide_border=true"/>
 
-</div>
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br/>
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Hamid-progs&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+### Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Hamid-progs/Hamid-progs/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
 </div>
-</details>
 
----
+<br/>
 
-### 🌱 What I Believe
-
-> Learning by Building &nbsp;•&nbsp; Clean & Reproducible Code &nbsp;•&nbsp; Continuous Improvement &nbsp;•&nbsp; Open Source Collaboration &nbsp;•&nbsp; Sharing Knowledge
-
----
-
-### 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hamidrazashahid321@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamid-progs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-raza-082aa62ba/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamidrana)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hamidrana_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hamidrazashahid321@gmail.com)
 
 </div>
+
+<br/>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Hamid-progs&icon=0&color=6)](https://visitcount.itsvg.in)
+### "Learning by Building • Continuous Improvement • Clean Code • Open Source • AI for Healthcare"
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
