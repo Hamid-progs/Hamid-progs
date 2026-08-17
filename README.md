@@ -240,7 +240,7 @@ Content-based movie recommendation system using cosine similarity, with a Stream
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hamid-progs&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamid-progs&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamid-progs&theme=github-dark" />
 
 
 ### Contribution Snake
